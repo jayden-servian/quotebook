@@ -1,6 +1,4 @@
-This is the first line in personal_quotes
-
-
+This is the first line in personal
 
 Live long andp rosper -- Spock
 I like green -- Jay
